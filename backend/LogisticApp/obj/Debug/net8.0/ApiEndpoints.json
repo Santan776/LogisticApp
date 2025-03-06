@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "LogisticApp.Controllers.OrdersController",
+    "Method": "AddNewOrder",
+    "RelativePath": "api/orders/add-new-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LogisticApp.Contracts.NewOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogisticApp.Controllers.OrdersController",
+    "Method": "GetAllOrders",
+    "RelativePath": "api/orders/get-all-orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

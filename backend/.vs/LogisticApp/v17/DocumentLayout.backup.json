@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3926644-F01A-450D-AEDE-5BA52C58EA50}|LogisticApp\\LogisticApp.csproj|c:\\users\\jablo\\desktop\\logisticapp\\backend\\logisticapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3926644-F01A-450D-AEDE-5BA52C58EA50}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CBD206-BB98-41F6-A7FF-B44D77B7CD84}|LogisticApp.Persistence\\LogisticApp.Persistence.csproj|c:\\users\\jablo\\desktop\\logisticapp\\backend\\logisticapp.persistence\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CBD206-BB98-41F6-A7FF-B44D77B7CD84}|LogisticApp.Persistence\\LogisticApp.Persistence.csproj|solutionrelative:logisticapp.persistence\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3926644-F01A-450D-AEDE-5BA52C58EA50}|LogisticApp\\LogisticApp.csproj|c:\\users\\jablo\\desktop\\logisticapp\\backend\\logisticapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3926644-F01A-450D-AEDE-5BA52C58EA50}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3926644-F01A-450D-AEDE-5BA52C58EA50}|LogisticApp\\LogisticApp.csproj|c:\\users\\jablo\\desktop\\logisticapp\\backend\\logisticapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3926644-F01A-450D-AEDE-5BA52C58EA50}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\LogisticApp.Persistence\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "LogisticApp.Persistence\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\LogisticApp.Persistence\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "LogisticApp.Persistence\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:57:22.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\LogisticApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "LogisticApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\LogisticApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "LogisticApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:49:17.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\LogisticApp\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\LogisticApp\\Program.cs",
+              "RelativeToolTip": "LogisticApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:11:20.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\LogisticApp\\appsettings.json",
+              "RelativeDocumentMoniker": "LogisticApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\LogisticApp\\backend\\LogisticApp\\appsettings.json",
+              "RelativeToolTip": "LogisticApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T09:11:16.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
